@@ -6,6 +6,7 @@ out/
 .settings/
 .idea/
 .project
+*.map
 .DS_Store
 *.iml
 output.txt
